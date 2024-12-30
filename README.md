@@ -18,7 +18,7 @@ A function that checks if the user's age is 18 or older, returning whether the u
 
 ---
 
-#Technologies Used
+# Technologies Used
 
 - HTML
 ---
