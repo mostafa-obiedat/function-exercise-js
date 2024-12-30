@@ -27,7 +27,7 @@ A function that checks if the user's age is 18 or older, returning whether the u
 
 # Live Demo:
 
- https://mostafa-obiedat.github.io/function-exercise-js/
+https://mostafa-obiedat.github.io/function-exercise-js/
 
 
 
