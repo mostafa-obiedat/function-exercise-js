@@ -1,4 +1,4 @@
-# function-exercise-js-
+# function-exercise-js
 
 Reverse a Number (Ex3 - Q1)
 A function that reverses the digits of a given number and logs the reversed order to the console.
@@ -27,7 +27,7 @@ A function that checks if the user's age is 18 or older, returning whether the u
 
 # Live Demo:
 
- https://mostafa-obiedat.github.io/function-exercise-js-/
+ https://mostafa-obiedat.github.io/function-exercise-js/
 
 
 
